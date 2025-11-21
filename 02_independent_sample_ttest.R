@@ -5,7 +5,7 @@
 ####################### Author: Christos Dalamarinis ##########################
 
 ###############################################################################
-### Purpose: Conduct Independent and Paired T-tests with Assumption Checks ###
+######## Purpose: Conduct Independent  T-tests with Assumption Checks #########
 
 # ============= Load Required Libraries ===============
 library(psych)        #For descriptive statistics (describe, describeBy functions)
@@ -428,10 +428,6 @@ ranked.boxplot
 
 
 
-
-
-
-
-
-
-
+###############################################################################
+########################## END OF SCRIPT ######################################
+###############################################################################
