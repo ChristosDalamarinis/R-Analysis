@@ -118,7 +118,7 @@ leveneTest(data$memory, data$group_numeric, center = mean)
 leveneTest(reaction_time ~ group_numeric, data = data, center = mean) # Levene's test with missing values
 
 # In case the Homogeneity assumption is violated, and Levene's test is significant, run a Welch analysis
-welch.score <- t.test(score ~ group, data=data, alternative="two.sided", var.equal=F, paired=F)
+welch.score <- t.test(score ~ group_numeric, data=data, alternative="two.sided", var.equal=F, paired=F)
 welch.score
 
 
