@@ -4,6 +4,8 @@
 
 [![R-universe version](https://ChristosDalamarinis.r-universe.dev/RStats/badges/version)](https://ChristosDalamarinis.r-universe.dev/RStats)
 
+[![Lifecycle: stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
+
 <!-- badges: end -->
 
 RStats is a collections of R scripts showcasing basic statistical proceedures
@@ -12,7 +14,7 @@ Author: Christos Dalamarinis
 
 ## Statistical Tests Included:
 
-1) Descriptive Statistics
+1)  Descriptive Statistics
 
 ## Example
 
