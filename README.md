@@ -15,4 +15,6 @@ Contact: [dalamarinischristos\@gmail.com](mailto:dalamarinischristos@gmail.com){
 ## Statistical Tests Included:
 
 1)  Descriptive Statistics
-2)  One Sample t-test
+2)  Independent Samples t-test
+3)  Paired Samples t-test
+4)  Chi-Squared Test
