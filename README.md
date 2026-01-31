@@ -10,9 +10,9 @@ RStats is a collections of R scripts showcasing basic statistical proceedures
 
 Author: Christos Dalamarinis
 
-## Installation
+## Statistical Tests Included:
 
-You can install the development version of RStats from [GitHub](https://github.com/) with:
+1) Descriptive Statistics
 
 ## Example
 
