@@ -10,15 +10,9 @@ RStats is a collections of R scripts showcasing basic statistical proceedures
 
 Author: Christos Dalamarinis
 
+Contact: [dalamarinischristos\@gmail.com](mailto:dalamarinischristos@gmail.com){.email}
+
 ## Statistical Tests Included:
 
 1)  Descriptive Statistics
-
-## Example
-
-This is a basic example which shows you how to solve a common problem:
-
-``` r
-library(RStats)
-## basic example code
-```
+2)  One Sample t-test
