@@ -18,3 +18,4 @@ Contact: [dalamarinischristos\@gmail.com](mailto:dalamarinischristos@gmail.com){
 2)  Independent Samples t-test
 3)  Paired Samples t-test
 4)  Chi-Squared Test
+5)  Correlation Analysis
